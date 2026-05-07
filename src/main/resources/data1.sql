@@ -1,0 +1,24 @@
+INSERT INTO PRODUCT
+(NAME, "DESC", BRAND, PRICE, CATEGORY, RELEASE_DATE, AVAILABLE, QUANTITY)
+VALUES
+    ('iPhone 15', 'Latest Apple smartphone with A16 chip', 'Apple', 299000.00, 'Mobile', DATE '2024-09-15', TRUE, 10);
+
+INSERT INTO PRODUCT
+(NAME, "DESC", BRAND, PRICE, CATEGORY, RELEASE_DATE, AVAILABLE, QUANTITY)
+VALUES
+    ('Galaxy S24', 'Samsung flagship Android smartphone', 'Samsung', 265000.00, 'Mobile', DATE '2024-02-01', TRUE, 15);
+
+INSERT INTO PRODUCT
+(NAME, "DESC", BRAND, PRICE, CATEGORY, RELEASE_DATE, AVAILABLE, QUANTITY)
+VALUES
+    ('Sony WH-1000XM5', 'Wireless noise cancelling headphones', 'Sony', 85000.00, 'Audio', DATE '2023-08-20', TRUE, 25);
+
+INSERT INTO PRODUCT
+(NAME, "DESC", BRAND, PRICE, CATEGORY, RELEASE_DATE, AVAILABLE, QUANTITY)
+VALUES
+    ('Canon EOS 1500D', 'DSLR camera suitable for beginners', 'Canon', 175000.00, 'Camera', DATE '2022-05-10', TRUE, 8);
+
+INSERT INTO PRODUCT
+(NAME, "DESC", BRAND, PRICE, CATEGORY, RELEASE_DATE, AVAILABLE, QUANTITY)
+VALUES
+    ('MacBook Air M2', 'Apple laptop with M2 chip and Retina display', 'Apple', 420000.00, 'Laptop', DATE '2023-03-18', TRUE, 6);
